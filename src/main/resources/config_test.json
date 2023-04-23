@@ -1,0 +1,20 @@
+{
+    "hexoProject" : {
+        "basePath": "src/test/resources/markdown/blog",
+        "blogFolderPath": "/source/_posts"
+    },
+    
+
+    "obsidianProject" : {
+        "basePath": "src/test/resources/markdown/obsidian",
+        "blogFolderPaths": [
+            "/TaylorChyi.xyz"
+        ]
+    },
+
+    "png" : "src/test/resources/images/png",
+    "ico" : "src/test/resources/images/ico",
+
+    "downloadPath" : "src/test/resources/downloads"
+}
+  
